@@ -1,0 +1,8 @@
+{
+    "breakfast": 
+      [
+          {"name": "Toast","price": "$5","calories": "200"},
+          {"name": "Omelete","price": "$4","calories": "400"},
+          {"name": "Pancakes","price": "$6","calories": "600"}
+    ]
+}

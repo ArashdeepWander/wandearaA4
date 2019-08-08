@@ -1,0 +1,8 @@
+{
+    "dinner": 
+      [
+          {"name": "Steak","price": "$25","calories": "800"},
+          {"name": "Fish","price": "$20","calories": "700"},
+          {"name": "Rice Bowl","price": "$17","calories": "600"}
+    ]
+}
